@@ -1,0 +1,10 @@
+scanpy
+anndata
+numpy
+pandas
+scipy
+scikit-learn
+POT
+networkx
+matplotlib
+seaborn
